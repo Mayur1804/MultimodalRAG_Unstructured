@@ -1,0 +1,11 @@
+unstructured[all-docs]
+tiktoken
+langchain
+langchain-core
+langchain_community
+langchain-groq
+langchain-ollama
+python-dotenv
+pillow
+lxml
+langchain_chroma
